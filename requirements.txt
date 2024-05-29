@@ -1,5 +1,4 @@
 fastapi[all]
-fastapi[all]
 pydantic
 joblib
 fastapi
